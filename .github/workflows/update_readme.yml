@@ -24,10 +24,13 @@ jobs:
       - name: Update README
         run: python update.py
 
-      - name: Commit changes
+      - name: Commit & push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add README.md
           git commit -m "Update README with latest projects" || echo "No changes"
-          git push
+          
+          git pull --rebase origin main || echo "Nothing to rebase"
+          git push origin main
