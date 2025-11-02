@@ -1,7 +1,7 @@
 name: update_readme.yml
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
