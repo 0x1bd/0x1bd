@@ -7,7 +7,7 @@ Wer einen Smiley Zuviel macht hat am Ende auch nichts mehr zu lachen.
 <!--START_LATEST_PROJECTS-->
 | Project | Description | Stars | Language |
 |--------|-------------|-------|---------|
-| [LiquidBounce](https://github.com/0x1bd/LiquidBounce) | A free Minecraft hacked client (utility mod) for Fabric | ⭐ 0 | ![Unknown](https://img.shields.io/badge/Unknown-8A2BE2) |
+| [LiquidBounce](https://github.com/0x1bd/LiquidBounce) | A free Minecraft hacked client (utility mod) for Fabric | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [SimpleSoundboard](https://github.com/0x1bd/SimpleSoundboard) | A simple soundboard mod for the Simple Voice Chat minecraft mod | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [BlockGameProxy](https://github.com/0x1bd/BlockGameProxy) | A proxy for block game that allows being online 24/7 | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [nbt_curses](https://github.com/0x1bd/nbt_curses) | Terminal based NBT Explorer/Editor | ⭐ 0 | ![Python](https://img.shields.io/badge/Python-3572A5) |
