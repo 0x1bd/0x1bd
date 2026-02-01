@@ -7,10 +7,10 @@ Wer einen Smiley Zuviel macht hat am Ende auch nichts mehr zu lachen.
 <!--START_LATEST_PROJECTS-->
 | Project | Description | Stars | Language |
 |--------|-------------|-------|---------|
-| [Spezi](https://github.com/0x1bd/Spezi) | No idea what this does | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
-| [KotlinWM](https://github.com/0x1bd/KotlinWM) | No idea what this does | ⭐ 0 | ![C](https://img.shields.io/badge/C-555555) |
+| [KotlinWM](https://github.com/0x1bd/KotlinWM) | Incomplete, Bad, Broken kotlin window manager using wlroots. | ⭐ 0 | ![C](https://img.shields.io/badge/C-555555) |
+| [Spezi](https://github.com/0x1bd/Spezi) | Toy Programming Language | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
+| [Kiwi](https://github.com/0x1bd/Kiwi) | No idea what this does | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [Rendek](https://github.com/0x1bd/Rendek) | A lightweight Kotlin utility library for custom HUD and world rendering in Fabric-based Minecraft mods. | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [SimpleSoundboard](https://github.com/0x1bd/SimpleSoundboard) | A simple soundboard mod for the Simple Voice Chat minecraft mod | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
-| [Kiwi](https://github.com/0x1bd/Kiwi) | No idea what this does | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 <!--END_LATEST_PROJECTS-->
 *Updates automatically. See [update.py](update.py)*
