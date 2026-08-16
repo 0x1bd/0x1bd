@@ -7,7 +7,7 @@ Wer einen Smiley Zuviel macht hat am Ende auch nichts mehr zu lachen.
 <!--START_LATEST_PROJECTS-->
 | Project | Description | Stars | Language |
 |--------|-------------|-------|---------|
-| [gd-linux-enhancement](https://github.com/0x1bd/gd-linux-enhancement) | Fixes several issues when playing GD on linux | ⭐ 0 | ![C++](https://img.shields.io/badge/C++-f34b7d) |
+| [GD-Linux-Enhanced](https://github.com/0x1bd/GD-Linux-Enhanced) | Fixes several issues when playing GD on linux | ⭐ 0 | ![C++](https://img.shields.io/badge/C++-f34b7d) |
 | [dustc](https://github.com/0x1bd/dustc) | dustc compiles a small hardware language into placed and routed Minecraft redstone.  | ⭐ 3 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [optraIX](https://github.com/0x1bd/optraIX) | Superoptimized minecraft server for computational redstone | ⭐ 2 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [KMCProtocol](https://github.com/0x1bd/KMCProtocol) | Kotlin implementation of the minecraft java protocol | ⭐ 1 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
