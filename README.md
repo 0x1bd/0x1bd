@@ -7,7 +7,7 @@ Wer einen Smiley Zuviel macht hat am Ende auch nichts mehr zu lachen.
 <!--START_LATEST_PROJECTS-->
 | Project | Description | Stars | Language |
 |--------|-------------|-------|---------|
-| [cinemarr](https://github.com/0x1bd/cinemarr) | Cinemarr is a self-hosted streaming application that searches configured indexers, acquires media, organises it into a local library, and plays it in the browser. It supports films and episodic media. | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
+| [cinemarr](https://github.com/0x1bd/cinemarr) | self-hosted streaming application  | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [dustc](https://github.com/0x1bd/dustc) | dustc compiles a small hardware language into placed and routed Minecraft redstone.  | ⭐ 3 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [GD-Linux-Enhanced](https://github.com/0x1bd/GD-Linux-Enhanced) | Fixes several issues when playing GD on linux | ⭐ 0 | ![C++](https://img.shields.io/badge/C++-f34b7d) |
 | [optraIX](https://github.com/0x1bd/optraIX) | Superoptimized minecraft server for computational redstone | ⭐ 2 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
