@@ -7,7 +7,7 @@ Wer einen Smiley Zuviel macht hat am Ende auch nichts mehr zu lachen.
 <!--START_LATEST_PROJECTS-->
 | Project | Description | Stars | Language |
 |--------|-------------|-------|---------|
-| [pakmc](https://github.com/0x1bd/pakmc) | CLI tool for managing Minecraft modpacks | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
+| [pakmc](https://github.com/0x1bd/pakmc) | CLI tool for managing Minecraft modpacks | ⭐ 1 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [protected-pvp](https://github.com/0x1bd/protected-pvp) | No idea what this does | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [Kiwi](https://github.com/0x1bd/Kiwi) | Client-side autonomous agent with task planning and pathfinding for Minecraft | ⭐ 2 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [SimpleSoundboard](https://github.com/0x1bd/SimpleSoundboard) | A simple soundboard mod for the Simple Voice Chat minecraft mod | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
