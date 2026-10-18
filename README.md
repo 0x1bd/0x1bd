@@ -7,8 +7,8 @@ Wer einen Smiley Zuviel macht hat am Ende auch nichts mehr zu lachen.
 <!--START_LATEST_PROJECTS-->
 | Project | Description | Stars | Language |
 |--------|-------------|-------|---------|
-| [SophisticatedIntegrations](https://github.com/0x1bd/SophisticatedIntegrations) | No idea what this does | ⭐ 0 | ![Java](https://img.shields.io/badge/Java-b07219) |
 | [BG26a-1.21.1-nf](https://github.com/0x1bd/BG26a-1.21.1-nf) | BG26-a 1.21.1 neoforge modpack. Made with pakmc | ⭐ 0 | ![Unknown](https://img.shields.io/badge/Unknown-8A2BE2) |
+| [SophisticatedIntegrations](https://github.com/0x1bd/SophisticatedIntegrations) | No idea what this does | ⭐ 0 | ![Java](https://img.shields.io/badge/Java-b07219) |
 | [pakmc](https://github.com/0x1bd/pakmc) | CLI tool for managing Minecraft modpacks | ⭐ 1 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [protected-pvp](https://github.com/0x1bd/protected-pvp) | No idea what this does | ⭐ 0 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
 | [Kiwi](https://github.com/0x1bd/Kiwi) | Client-side autonomous agent with task planning and pathfinding for Minecraft | ⭐ 2 | ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF) |
